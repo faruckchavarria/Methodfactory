@@ -1,2 +1,2 @@
 # Methodfactory
-Patron de diseño de methodFactory
+* [Patron de diseño de methodFactory](Methodfactory\documento.md)
